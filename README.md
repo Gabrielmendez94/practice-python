@@ -22,6 +22,3 @@ Reforzar lógica de programación y fundamentos de Python, incluyendo:
 
 - Python 3.x
 
-## Nota
-
-Ejercicios realizados con fines educativos y de aprendizaje continuo.
