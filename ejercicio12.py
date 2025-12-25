@@ -1,3 +1,5 @@
+#Consigna: Pedir un número y mostrar si es positivo, negativo o cero.
+
 def tipoNumero (num):
     var1 = int(input('Ingrese un numero, por favor: '))
     if(var1 > 0):

@@ -1,3 +1,5 @@
+#Consigna: Calcular el factorial de un número.
+
 def factorial():
     num = int(input("Indiqueme de cual numero quiere conocer su factorial: "))
     valor = 1

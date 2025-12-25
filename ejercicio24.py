@@ -1,3 +1,5 @@
+#Consigna: Mostrar los números pares entre 1 y 50.
+
 i = 0
 while (i <= 50):
     i+=1

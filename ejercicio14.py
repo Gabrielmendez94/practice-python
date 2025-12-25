@@ -1,3 +1,5 @@
+#Consigna: Pedir tres números y mostrar el mayor.   
+
 def compNum():
     var1 = int(input('Ingrese el primer numero, por favor: '))
     var2 = int(input('Ingrese el segundo numero, por favor: '))

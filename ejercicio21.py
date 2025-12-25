@@ -1,3 +1,5 @@
+#Consigna: Pedir una nota y mostrar si está aprobado o desaprobado.
+
 def evaluadorDeNotas():
     nota = int(input('Indiqueme cual es su nota: '))
     if(nota >= 8 | nota <=10):

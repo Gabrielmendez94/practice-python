@@ -1,3 +1,5 @@
+#Consigna: Pedir una contraseña y validar si coincide con una predefinida.
+
 contraseña = "Leonardo_94"
 
 def validarIdentidad():

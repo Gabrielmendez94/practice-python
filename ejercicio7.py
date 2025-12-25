@@ -1,3 +1,5 @@
+#Consigna: Pedir dos números y mostrar suma, resta, multiplicación y división.
+
 var1 = int(input('Digame el primer numero, por favor: '))
 var2 = int(input('Digame el segundo numero, por favor: '))
 

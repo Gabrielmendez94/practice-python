@@ -1,3 +1,5 @@
+#Consigna: Sumar los números del 1 al 100.
+
 contador = 0
 i = 1
 while (i < 101):

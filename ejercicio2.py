@@ -1,3 +1,5 @@
+#Consigna: Imprimir tu nombre y edad en una sola línea.
+
 edad = 31
 nombre = "Gabriel Mendez"
 

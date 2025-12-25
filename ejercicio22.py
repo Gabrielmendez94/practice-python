@@ -1,3 +1,5 @@
+#Consigna: Pedir una edad y determinar si es mayor de edad.
+
 def mayorDeEdad():
     edad = int(input('Indique cual es su edad: '))
     if (edad >= 18):

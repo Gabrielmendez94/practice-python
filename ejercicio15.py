@@ -1,3 +1,5 @@
+#Consigna: Mostrar los números del 1 al 10 usando for.
+
 numeros= [4,3,6,1,5,8,2,9,7,10]
 
 for i in range(len(numeros)):

@@ -1,3 +1,5 @@
+#Consigna: Calcular el area de un círculo.
+
 import math
 def calcAreaCirculo():
     print(f'Bienvenido al calculador de areas de circulos')

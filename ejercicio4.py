@@ -1,3 +1,5 @@
+#Consigna: Declarar dos variables y mostrar su suma.
+
 var1 = 27
 var2 = 654
 
